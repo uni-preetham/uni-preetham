@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Docker**
 
-- 👨‍💻 All of my projects are available at [github.com/uni-preetham]
+- 👨‍💻 All of my projects are available at www.github.com/uni-preetham
 
 - 📫 How to reach me **uni.preetham@gmail.com**
 
